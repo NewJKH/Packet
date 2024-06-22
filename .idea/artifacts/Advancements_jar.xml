@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Advancements:jar">
+    <output-path>$PROJECT_DIR$/../../../../../DEV/1.20.6/lobby/plugins</output-path>
+    <root id="archive" name="Advancements.jar">
+      <element id="module-output" name="Advancements" />
+    </root>
+  </artifact>
+</component>

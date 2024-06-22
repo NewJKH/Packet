@@ -1,0 +1,8 @@
+name: Advancements
+version: '1.0-SNAPSHOT'
+main: org.nano.advancements.Advancements
+api-version: '1.20'
+softdepend:  [ProtocolLib]
+commands:
+  테스트:
+    aliases: []
